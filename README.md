@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante da ETEC Albert Einstein<br>Tenho 17 anos<br>Cursando Desenvolvimento de Sistemas<br>Procuro vaga de estágio na área de TI
+Sou estudante da ETEC Albert Einstein<br>Tenho 17 anos<br>Cursando Desenvolvimento de Sistemas<br>Procuro vaga de estágio na área de TI<br>Programando desde 2021
 
 
 ## 🌐 Socials:
