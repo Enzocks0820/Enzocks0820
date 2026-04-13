@@ -1,5 +1,5 @@
 ⁸# 💫 About Me:
-Sou estudante da UNINOVE<br>Tenho 17 anos<br>Cursando Tecnologia em Análise  e Desenvolvimento de Sistemas<br>Atualmente trabalhando como Consultor SAP BRIM  no módulo de CC desde 3 de junho de 2024
+Sou estudante da UNINOVE<br>Tenho 20 anos<br>Cursando Tecnologia em Análise  e Desenvolvimento de Sistemas<br>Atualmente trabalhando como Consultor SAP BRIM  no módulo de CC desde 3 de junho de 2024
 
 
 ## 🌐 Socials:
