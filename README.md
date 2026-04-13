@@ -1,5 +1,5 @@
-# 💫 About Me:
-Sou estudante da ETEC Albert Einstein<br>Tenho 17 anos<br>Cursando Desenvolvimento de Sistemas<br>Procuro vaga de estágio na área de TI<br>Programando desde 2021
+⁸# 💫 About Me:
+Sou estudante da UNINOVE<br>Tenho 17 anos<br>Cursando Tecnologia em Análise  e Desenvolvimento de Sistemas<br>Atualmente trabalhando como Consultor SAP BRIM  no módulo de CC desde 3 de junho de 2024
 
 
 ## 🌐 Socials:
